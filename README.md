@@ -7,15 +7,13 @@ date: 5th-Feb-2021
  -->
 
 <h1>I'm Shezan</h1>
-<p align="left"> <a href="https://twitter.com/ashikshezan_" target="blank"><img src="https://img.shields.io/twitter/follow/ashikshezan_?logo=twitter&style=for-the-badge" alt="ashikshezan_" /></a> </p>
+<h5>Data Engineer at <a href="https://www.leadbook.com/">leadbook</a></h5>
 
-- 🔭 I’m currently working on *landing a job*
+- 🔭 I’m currently working on data crawling and acquisition
 
-- 🌱 I’m currently learning *HTML/CSS*
+- 🌱 I’m currently learning data analysis with python
 
 - 👯 I’m looking to collaborate on *Any type of project*
-
-- 🤝 I’m looking for help with *CSS its always CSS*
 
 - 💬 Ask me about *Python*
 

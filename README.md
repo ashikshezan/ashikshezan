@@ -17,9 +17,8 @@ date: 5th-Feb-2021
 
 - 💬 Ask me about *Python*
 
-<!-- - 👨‍💻 All of my projects are available at [ashikshezan.github.io/](https://ashikshezan.github.io/)
 
-- 📄 Know about my experiences [ashikshezan.github.io/resume](https://ashikshezan.github.io/resume) -->
+- 📄 Know about my experiences [ashikshezan.github.io/resume](https://ashikshezan.github.io/resume)
 
 - 📫 How to reach me ashikshezan@gmail.com
 

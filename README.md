@@ -1,58 +1,43 @@
-<!-- 
-file: README.md
-version: 2.0
-genrated_by: https://rahuldkjain.github.io/gh-profile-readme-generator/
-edited_by: ashikshezan
-date: 5th-Feb-2021
- -->
+<h2>Hey there! I'm Shezan</h2>
 
-<h2>I'm Shezan</h2>
-<h4>Data Engineer at <a href="https://www.leadbook.com/">leadbook</a></h4>
+💻 &nbsp; Working as a Data Engineer. Very interested to the field of Data Science\
+🌱 &nbsp; Currently in the learning path of the DevOps side, such as creating pipelines, understanding and designing cloud infrastructures, CI/CD etc.\
+\
+💬 &nbsp;Feel free to ping me to consult, discuss or collaborate for Data Science related or any interesting project \
+✉️ &nbsp;Reach me at ashikshezan@gmail.com
 
-- 🔭 I’m currently working on data crawling and acquisition
+&nbsp;\
+&nbsp;\
+&nbsp;
 
-- 🌱 I’m currently learning data analysis with python
+### 🛠 &nbsp;Tech Stack
 
-- 👯 I’m looking to collaborate on *Any type of project*
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Bash (Shell)](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash&logoColor=276DC3)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=archlinux)&nbsp;\
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![fastapi](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/-Scikitlearn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;\
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![ApacheAirflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp;
 
-- 💬 Ask me about *Python*
+#### &nbsp;Front-End
 
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-- 📄 Know about my experiences [ashikshezan.github.io/resume](https://ashikshezan.github.io/resume)
+&nbsp;\
+&nbsp;
 
-- 📫 How to reach me ashikshezan@gmail.com
-
-
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikshezan&show_icons=true&locale=en" alt="ashikshezan" /></p> 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikshezan&" alt="ashikshezan" /></p> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ashikshezan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ashikshezan" height="30" width="40" /></a>
-<a href="https://twitter.com/ashikshezan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashikshezan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashikshezan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashikshezan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ashikshezan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ashikshezan" height="30" width="40" /></a>
-<a href="https://fb.com/ashikshezan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ashikshezan" height="30" width="40" /></a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikshezan&label=Profile%20views&color=0e75b6&style=flat" alt="ashikshezan" /> </p>
+<p align="center">
+<a href="https://ashikshezan.github.io"><img src="https://img.shields.io/badge/-ashikshezan-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashikshezan"><img src="https://img.shields.io/badge/-Ashik%20Shezan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

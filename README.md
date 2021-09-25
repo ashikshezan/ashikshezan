@@ -1,7 +1,7 @@
 <h2>Hey there! I'm Shezan</h2>
 
 💻 &nbsp; Working as a Data Engineer. Very interested to the field of Data Science\
-🌱 &nbsp; Currently in the learning path of the DevOps side, such as creating pipelines, understanding and designing cloud infrastructures, CI/CD etc.\
+🌱 &nbsp; Currently in the learning path of the DevOps side, such as creating pipelines, understanding and designing cloud infrastructures, CI/CD, TDD etc.\
 \
 💬 &nbsp;Feel free to ping me to consult, discuss or collaborate for Data Science related or any interesting project \
 ✉️ &nbsp;Reach me at ashikshezan@gmail.com

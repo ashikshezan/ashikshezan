@@ -1,15 +1,3 @@
-<h2>Hey there! I'm Shezan</h2>
-
-💻 &nbsp; Working as a Data Engineer. Very interested to the field of Data Science\
-🌱 &nbsp; Currently in the learning path of the DevOps side, such as creating pipelines, understanding and designing cloud infrastructures, CI/CD, TDD etc.\
-\
-💬 &nbsp;Feel free to ping me to consult, discuss or collaborate for Data Science related or any interesting project \
-✉️ &nbsp;Reach me at ashikshezan@gmail.com
-
-&nbsp;\
-&nbsp;\
-&nbsp;
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,6 +14,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![ApacheAirflow](https://img.shields.io/badge/-ApacheAirflow-05122A?style=flat&logo=apacheairflow)&nbsp;
+![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=apachekafka)&nbsp;
+
 
 #### &nbsp;Front-End
 

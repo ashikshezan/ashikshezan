@@ -17,7 +17,7 @@ As a Data Engineer, I am proficient in a variety of technologies and frameworks.
 **Back-End Development**
 
 - ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;	
 - ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 
 **Data Processing & Machine Learning**
@@ -49,16 +49,14 @@ While I mainly focus on back-end and data engineering, I also have experience wi
 
 - ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;	
+- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 - ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
 ---
 
 #### 🌐 &nbsp;Find me around the web:
 
-- Personal Portfolio: ![ashikshezan](https://img.shields.io/badge/-ashikshezan.com-05122A?style=flat&logo=firefox)
+- Personal Portfolio: [![ashikshezan](https://img.shields.io/badge/-ashikshezan.com-05122A?style=flat&logo=firefox)](https://www.ashikshezan.dev)
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashikshezan/)
-- GitHub: ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-- Twitter: ![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)
 
 Feel free to connect with me for collaboration or just to have a chat about technology and data engineering!
